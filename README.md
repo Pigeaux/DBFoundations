@@ -1,4 +1,4 @@
-Name: Richard Bradley <b>
+Name: Richard Bradley <p>
 Date: 6/2/2022
 Course: IT FDN 130 A Sp 22: Foundations Of Databases & SQL Programming
 https://github.com/Pigeaux/DBFoundations 
