@@ -1,9 +1,9 @@
+#Assignment 7
+
 Name: Richard Bradley
 Date: 6/2/2022
 Course: IT FDN 130 A Sp 22: Foundations Of Databases & SQL Programming
 https://github.com/Pigeaux/DBFoundations 
-
-#Assignment 7
 
 ##Introduction
 In this assignment, I will explain the utility of a SQL UDF and the differences between scalar, inline, and multi-statement functions.
